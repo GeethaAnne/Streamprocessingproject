@@ -13,7 +13,7 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
-
+//new
 public class KafkaActivityImpl implements KafkaActivity {
 
     @Override
